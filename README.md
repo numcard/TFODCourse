@@ -23,6 +23,7 @@ python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=tfod
 </pre>
+<br/>
 <b>Step 4.1</b> Install Jupyter
 <pre>
 pip install jupyterlab
