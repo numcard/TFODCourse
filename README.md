@@ -19,6 +19,7 @@ source tfod/bin/activate # Linux
 <br/>
 <b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
 <pre>
+# python3 -m ensurepip # if pip was removed
 python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=tfod
