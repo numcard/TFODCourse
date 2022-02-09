@@ -38,6 +38,21 @@ jupyter notebook
 # !chcp 65001 # change default cp866 to utf-8 for russian users
 </pre>
 <br/>
+<b>Step 4.2</b> Install All Dependencies
+<pre>
+pip install opencv-python
+pip install --upgrade pyqt5 lxml
+pip install wget
+pip install tensorflow==2.7.0
+pip install tensorflow-cpu==2.7.0
+pip install tensorflow-addons
+pip install matplotlib
+pip install cycler
+pip install kiwisolver
+pip install pyyaml
+pip install gin-config
+</pre>
+<br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/nicknochnack/TFODCourse/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
 <img src="https://i.imgur.com/8yac6Xl.png"> 
 <br/>
