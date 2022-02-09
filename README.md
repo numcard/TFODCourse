@@ -4,7 +4,10 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository inside TOD directory: https://github.com/nicknochnack/TFODCourse
+<pre>
+git clone https://github.com/numcard/TFODCourse.git
+</pre>
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
