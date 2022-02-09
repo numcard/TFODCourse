@@ -4,6 +4,8 @@
 
 ## Steps
 <br />
+<b>Step 0.</b> Install Python 3.9
+ <br/><br/>
 <b>Step 1.</b> Clone this repository inside TOD directory: https://github.com/nicknochnack/TFODCourse
 <pre>
 git clone https://github.com/numcard/TFODCourse.git
