@@ -47,8 +47,6 @@ pip install tensorflow==2.7.0
 pip install tensorflow-cpu==2.7.0
 pip install tensorflow-addons
 pip install matplotlib
-pip install cycler
-pip install kiwisolver
 pip install pyyaml
 pip install gin-config
 </pre>
