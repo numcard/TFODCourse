@@ -4,7 +4,7 @@
 
 ## Steps
 <br />
-<b>Step 0.</b> Install Python 3.9
+<b>Step 0.</b> Install Python 3.7
  <br/><br/>
 <b>Step 1.</b> Clone this repository inside TOD directory: https://github.com/nicknochnack/TFODCourse
 <pre>
@@ -36,8 +36,8 @@ pip install jupyterlab
 pip install notebook
 pip install ipywidgets
 jupyter nbextension enable --py widgetsnbextension
+chcp 65001 # change default cp866 to utf-8 for russian users
 jupyter notebook
-# !chcp 65001 # change default cp866 to utf-8 for russian users
 </pre>
 <br/>
 <b>Step 4.2</b> Install All Dependencies
